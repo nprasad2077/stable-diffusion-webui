@@ -1,0 +1,5 @@
+- [How to make your own Inpainting model](https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/How-to-make-your-own-Inpainting-model)
+- [SECourses's Stable Diffusion Tutorials Playlist](https://www.youtube.com/playlist?list=PL_pbwdIyffsmclLl0O144nQRnezKlNdx3)
+- [Optimum SDXL Usage](https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Optimum-SDXL-Usage)
+- [Can't reproduce results? Try this first](https://github.com/AUTOMATIC1111/stable-diffusion-webui/discussions/13093)
+- [(rocm) fix for random restarts due to lack of miopen cache](https://github.com/AUTOMATIC1111/stable-diffusion-webui/discussions/13275)
